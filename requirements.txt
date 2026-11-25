@@ -1,0 +1,6 @@
+
+streamlit
+yt-dlp
+faster-whisper
+requests
+av==18.1.0
